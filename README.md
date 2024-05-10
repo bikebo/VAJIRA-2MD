@@ -45,7 +45,7 @@
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://vajirapair-713f1494b168.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://dasu-md.onrender.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 
